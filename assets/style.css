@@ -1,0 +1,9 @@
+.video {
+  text-align: center;
+}
+
+@media screen and (max-width: 1440px) {
+  video {
+    max-width: 100%;
+  }
+}
